@@ -27,14 +27,14 @@
 - **Readmission** : Indicates if the patient was readmitted (Yes or No).
 
 ## 🔍 Steps Perform
-# **1.📥 Data Import**
+##  **1.📥 Data Import**
 - Load Excel file using read_excel.
 
-# **2.🧹 Data Cleaning**
+## **2.🧹 Data Cleaning**
 - Drop the Patient_id  and Treatment column.
 - The minimum  age is 0 so we can use random to get random random number for that 0 age.
 
-# **3.📊 Exploratory Data Analysis (EDA)**
+## **3.📊 Exploratory Data Analysis (EDA)**
 **1.Univariate analysis**
 - A histogram showed that most patients were between 30 and 60 years old.
 - Another plot showed that the majority of hospital stays were short, usually 0 to 5 days.
