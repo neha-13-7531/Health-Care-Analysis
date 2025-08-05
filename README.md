@@ -49,23 +49,23 @@
 
 ## 💡 Recommendations
 
-# **1🧓 Age Distribution**
+## **1🧓 Age Distribution**
 - The age distribution is fairly wide, with a concentration in the 30–60 age range.
 - There's a peak around 40–50 years, suggesting middle-aged individuals are the most frequent patients.
  - ✅Recommendation:
    - Focus preventive and chronic care services (e.g., diabetes, hypertension) on the 30–60 age group.
 
-# **2.🏥 Length of Stay**
+## **2.🏥 Length of Stay**
 - The histogram shows most patients have a short hospital stay (0–5 days), with fewer cases beyond 10 days.
 - ✅Recommendation:
    - Optimize resources for short-stay treatments and consider offering more outpatient care packages.
 
-# **3.📊 Univariate Analysis – Categorical Variables**
+## **3.📊 Univariate Analysis – Categorical Variables**
 - Top values in Diagnosis, Treatment, and Outcome are clearly dominated by a few categories.
 - ✅Recommendation:
    - Focus resources and awareness programs on the most common diagnoses and treatments.
 
-# **4.📊 Pie Chart – Outcome Distribution**
+## **4.📊 Pie Chart – Outcome Distribution**
 - The pie chart shows distribution of patient outcomes (e.g., Recovered, Improved, Deceased).
 - Most patients fall into Recovered or Improved, with a small portion showing worse outcomes.
 - ✅Recommendation:
